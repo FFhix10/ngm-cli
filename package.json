@@ -44,7 +44,7 @@
     "cpy": "7.0.0",
     "del": "3.0.0",
     "execa": "0.10.0",
-    "inquirer": "5.2.0",
+    "inquirer": "7.0.5",
     "listr": "0.14.1",
     "lodash": "4.17.10",
     "meow": "5.0.0",
@@ -60,7 +60,7 @@
     "ts-loader": "6.0.0",
     "tsconfig": "7.0.0",
     "typescript": "~2.7.2",
-    "update-notifier": "2.5.0",
+    "update-notifier": "4.0.0",
     "webpack": "5.0.0",
     "write-pkg": "3.1.0"
   },
