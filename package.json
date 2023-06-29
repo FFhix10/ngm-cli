@@ -61,7 +61,7 @@
     "tsconfig": "7.0.0",
     "typescript": "~2.7.2",
     "update-notifier": "2.5.0",
-    "webpack": "5.0.0",
+    "webpack": "5.76.0",
     "write-pkg": "3.1.0"
   },
   "devDependencies": {
